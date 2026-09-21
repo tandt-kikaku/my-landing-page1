@@ -256,7 +256,7 @@ section[id] { scroll-margin-top: 20px; }
 	background:
 		linear-gradient(90deg, rgba(26, 35, 42, 0.92) 0%, rgba(26, 35, 42, 0.62) 46%, rgba(26, 35, 42, 0.12) 100%),
 		linear-gradient(0deg, var(--bg) 0%, rgba(57, 76, 91, 0) 26%),
-		url("../images/hero.jpg") 70% center / cover no-repeat;
+		url("images/hero.jpg") 70% center / cover no-repeat;
 }
 @media (max-width: 700px) {
 	.hero__bg {
