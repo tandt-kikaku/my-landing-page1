@@ -263,7 +263,7 @@ section[id] { scroll-margin-top: 20px; }
 		background:
 			linear-gradient(180deg, rgba(26, 35, 42, 0.55) 0%, rgba(26, 35, 42, 0.86) 62%, rgba(26, 35, 42, 0.94) 100%),
 			linear-gradient(0deg, var(--bg) 0%, rgba(57, 76, 91, 0) 22%),
-			url("../images/hero.jpg") 72% center / cover no-repeat;
+			url("images/hero.jpg") 72% center / cover no-repeat;
 	}
 }
 
